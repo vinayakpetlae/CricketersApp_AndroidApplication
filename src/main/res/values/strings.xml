@@ -1,0 +1,558 @@
+<resources>
+    <string name="app_name">CRICKETERS</string>
+
+    <string name="SachinTendulker">Sachin Ramesh Tendulkar is a former Indian international cricketer and a former captain of the Indian national team, regarded as one of the greatest batsmen of all time. He is the highest run scorer of all time in International cricket.\n"
+                    </string>
+    <string name="ViratKohli">Virat Kohli is an Indian international cricketer who currently captains the India national team. A right-handed top-order batsman, Kohli is regarded as one of the greatest batsmen in the world. He plays for Royal Challengers Bangalore in the Indian Premier League, and has been the teams captain since 2013. \n"
+                    </string>
+    <string name="ABdeVilliers">Abraham Benjamin de Villiers, commonly known as AB de Villiers is a former South African cricketer who played for the South African national team. He is regarded as one of the greatest batsmen of all time.
+                    </string>
+    <string name="MSDhoni">Mahendra Singh Dhoni is an Indian international cricketer who captained the Indian national team in limited-overs formats from 2007 to 2016 and in Test cricket from 2008 to 2014.
+                   </string>
+    <string name="ChrisGayle">Christopher Henry Gayle, OD is a Jamaican cricketer who plays international cricket for the West Indies. Gayle captained the West Indies Test side from 2007 to 2010. Considered one of the greatest batsmen in limited-overs cricket, also regarded as the best T20 batsman ever.
+                    </string>
+    <string name="RashidKhan">Rashid Khan Arman, commonly known as Rashid Khan, is an Afghan cricketer who represents the national team. He was one of the eleven cricketers to play in Afghanistans first ever Test match, against India, in June 2018. He also returned the most expensive bowling figures by a debutant in a nations maiden Test match.
+                    </string>
+    <string name="KaneWilliamson">Kane Stuart Williamson is a New Zealand international cricketer who is currently the captain of the New Zealand national team. He is a right-handed batsman and an occasional off spin bowler and is considered as one of the best batsmen of the current generation.
+                    </string>
+    <string name="JasonRoy">Jason Jonathan Roy is an English international cricketer who plays for Surrey in domestic cricket. He is a right-handed batsman who opens in limited over cricket and plays in the middle order in first-class matches.
+                    </string>
+    <string name="WilliamPorterfield">William Thomas Stuart Porterfield is an Irish cricketer who is currently the captain of the Ireland cricket team in Test and One Day International formats and has also played first-class cricket for Gloucestershire and Warwickshire.
+                   </string>
+    <string name="SteveSmith">Steven Peter Devereux Smith is an Australian international cricketer and former captain of the Australian national team. On 30 December 2017, he reached a Test batting rating of 947, the second-highest of all time, only behind Don Bradmans 961.
+                    </string>
+    <string name="ShahidAfridi">Sahibzada Mohammad Shahid Khan Afridi, popularly known as Boom Boom, is a former Pakistani cricketer and former captain of the Pakistan national cricket team.
+                    </string>
+
+
+
+
+    <string name="SachinTendulker1">
+                    "                   Born: April 24, 1973, Mumbai, India\n"
+                    "                   Height: 1.65 m\n"
+                    "                   Spouse: Anjali Tendulkar (m. 1995)\n"
+                    "                   Movies: Kabhi Ajnabi The\n"
+                    "
+                              Personal information
+Full name	Sachin Ramesh Tendulkar
+Born	24 April 1973 (age 45)[1]
+Bombay (now Mumbai), Maharashtra
+Nickname	God of Cricket, Little Master,[1] Master Blaster[2][3]
+Height	5 ft 5 in (165 cm)
+Batting	Right-handed
+Bowling	Right-arm medium, leg break, off break
+Role	Batsman
+
+                            International information
+National side
+India (1989–2013)
+Test debut (cap 187)	15 November 1989 v Pakistan
+Last Test	14 November 2013 v West Indies
+ODI debut (cap 74)	18 December 1989 v Pakistan
+Last ODI	18 March 2012 v Pakistan
+ODI shirt no.	10
+Only T20I (cap 11)	1 December 2006 v South Africa
+
+                            Domestic team information
+Years	Team
+1988	Cricket Club of India
+1988–2013	Mumbai
+1992	Yorkshire
+2008–2013	Mumbai Indians (squad no. 10)
+2014	Marylebone Cricket Club
+
+                                Career statistics
+Competition	Test                    ODI	FC	LA
+Matches	 200                       	463	310	551
+Runs scored	                    15,921	18,426	25,396	21,999
+Batting average	                53.78	44.83	57.84	45.54
+100s/50s	                    51/68	49/96	81/116	60/114
+Top score	                    248*	200*	248*	200*
+Balls bowled	                4,240	8,054	7,605	10,230
+Wickets	                            46	154	71	201
+Bowling average	                54.17	44.48	61.74	42.17
+5 wickets in innings	            0	2	0	2
+10 wickets in match	                0	n/a	0	n/a
+Best bowling	                3/10	5/32	3/10	5/32
+Catches/stumpings           	115/–	140/–	186/–	175/–
+Member of Parliament, Rajya Sabha (nominated)
+    </string>
+    <string name="ViratKohli1">
+                    "
+                            Personal information
+Born	5 November 1988 (age 29)
+Delhi, India
+Height	5 ft 9 in (1.75 m)
+Batting	Right-handed
+Bowling	Right-arm medium
+Role	Top-order batsman, Captain
+Relations	Anushka Sharma (m. 2017)
+Website	www.viratkohli.club
+
+                            International information
+National side
+India (2008–present)
+Test debut (cap 269)	20 June 2011 v West Indies
+Last Test	12 October 2018 v West Indies
+ODI debut (cap 175)	18 August 2008 v Sri Lanka
+Last ODI	1 November 2018 v West Indies
+ODI shirt no.	18
+T20I debut (cap 31)	12 June 2010 v Zimbabwe
+Last T20I	8 July 2018 v England
+T20I shirt no.	18
+
+                            Domestic team information
+Years	Team
+2006–present	Delhi
+2008–present	Royal Challengers Bangalore (squad no. 18, formerly 5)
+
+                                Career statistics
+Competition		                    Test   ODI	  T20I	FC
+Matches	                            73	    216	  62	105
+Runs                            	6,331	10,232	2,102	8,580
+Batting average	                    54.57	59.83	48.88	54.64
+100s/50s	                        24/19	38/48	0/18	31/27
+Top score	                        243	183	90*	243
+Balls bowled	                    163	641	146	631
+Wickets	                            0	4	4	3
+Bowling average	–	                166.25	49.50	110.00
+5 wickets in innings	            -	0	0	0
+10 wickets in match	                -	0	0	0
+Best bowling	                    –	1/15	1/13	1/19
+Catches/stumpings	                67/–	103/–	32/–	98/–</string>
+    <string name="ABdeVilliers1">"
+                            Personal information
+Full name	Abraham Benjamin de Villiers
+Born	17 February 1984 (age 34)
+Warmbad, Transvaal Province, South Africa
+Nickname	Mr.360[1]
+Superman[2][3]
+Height	1.78 m (5 ft 10 in)
+Batting	Right handed
+Bowling	Right-arm medium
+Role	Batsman, Wicket-keeper
+
+                            International information
+National side
+South Africa (2004–2018)
+Test debut (cap 296)	17 December 2004 v England
+Last Test	30 March 2018 v Australia
+ODI debut (cap 78)	2 February 2005 v England
+Last ODI	13 February 2018 v India
+ODI shirt no.	17
+T20I debut (cap 20)	24 February 2006 v Australia
+Last T20I	29 October 2017 v Bangladesh
+T20I shirt no.	17
+
+                            Domestic team information
+Years	Team
+2003–present	Northerns
+2004–present	Titans (squad no. 17)
+2008–2010	Delhi Daredevils
+2011–present	Royal Challengers Bangalore
+2016	Barbados Tridents
+2019	Peshawar Zalmi
+2019	Rangpur Riders
+
+                            Career statistics
+Competition	                   Test	ODI	FC	LA
+Matches	                        114	228	141	263
+Runs scored	                    8765	9577	10689	11123
+Batting average	                50.66	53.50	49.71	49.20
+100s/50s	                    22/46	25/53	25/60	29/63
+Top score	                    278*	176	278*	176
+Balls bowled	                204	192	234	234
+Wickets	                        2	7	2	7
+Bowling average	                52.00	28.85	69.00	28.85
+5 wickets in innings	        -	-	-	-
+10 wickets in match	            -	-	–	-
+Best bowling	                2/49	2/15	2/49	2/15
+Catches/stumpings	            222/5	176/5	275/6	203/5</string>
+    <string name="MSDhoni1">"
+                            Personal information
+Full name	Mahendra Singh Dhoni
+Born	7 July 1981 (age 37)
+Ranchi, Bihar (now Jharkhand), India
+Nickname	Mahi, MSD, Captain Cool, Thala
+Height	5 ft 10 in (1.78 m)
+Batting	Right-handed
+Bowling	Right-arm medium
+Role	Wicket-keeper batsman
+
+                        International information
+National side
+India (2004-present)
+Test debut (cap 251)	2 December 2005 v Sri Lanka
+Last Test	26 December 2014 v Australia
+ODI debut (cap 158)	23 December 2004 v Bangladesh
+Last ODI	1 November 2018 v West Indies
+ODI shirt no.	7
+T20I debut (cap 2)	1 December 2006 v South Africa
+Last T20I	8 July 2018 v England
+T20I shirt no.	7
+
+                        Domestic team information
+Years	Team
+1999/00–2003/04	Bihar
+2004/05–present	Jharkhand
+2008–2015; 2018-present	Chennai Super Kings (squad no. 7)
+2016–2017	Rising Pune Supergiant (squad no. 7)
+2018	Chennai Super Kings
+
+                            Career statistics
+Competition	                Test	ODI	T20Is	FC
+Matches	                    90	332	93	131
+Runs scored	                4,876	10,173	1,487	7,038
+Batting average	            38.09	50.11	37.17	36.84
+100s/50s	                6/33	10/67	0/2	9/47
+Top score	                224	183*	56	224
+Balls bowled	            96	36	–	126
+Wickets	                    0	1	–	0
+Bowling average	            –	31.00	–	–
+5 wickets in innings	    –	0	–	–
+10 wickets in match	        –	0	–	–
+Best bowling	            –	1/14	–	–
+Catches/stumpings	        256/38	307/113	54/33	364/57
+</string>
+    <string name="ChrisGayle1">"
+                            Personal information
+Full name	Christopher Henry Gayle
+Born	21 September 1979 (age 39)
+Kingston, Jamaica
+Nickname	Henry, Gayle-Force, Gayle Storm, Universe Boss[1]
+Height	6 ft 3 in (1.91 m)
+Batting	Left-handed
+Bowling	Right-arm off break
+Role	Opening batsman
+
+                            International information
+National side
+West Indies (1998-present)
+Test debut (cap 230)	16 March 2000 v Zimbabwe
+Last Test	5 September 2014 v Bangladesh
+ODI debut (cap 97)	11 September 1999 v India
+Last ODI	28 July 2018 v Bangladesh
+ODI shirt no.	45
+T20I debut (cap 6)	16 February 2006 v New Zealand
+Last T20I	31 May 2018 v World XI
+
+                            Domestic team information
+Years	Team
+1998–present	Jamaica
+2005	Worcestershire
+2008	Stanford Superstars
+2008–2010	Kolkata Knight Riders
+2009–2011	Western Australia
+2011–2017	Royal Challengers Bangalore
+2011–2013	Sydney Thunder
+2011	Matabeleland Tuskers
+2012	Barisal Burners
+2013–2016	Jamaica Tallawahs
+2013	Dhaka Gladiators
+2014	Highveld Lions
+2015–2016	Melbourne Renegades, Somerset
+2015	Barisal Bulls
+2016	Lahore Qalandars, Chittagong Vikings
+2017	Karachi Kings, Rangpur Riders, St Kitts and Nevis Patriots
+2018–present	Multan Sultans, Kings XI Punjab, Balkh Legends
+
+                                Career statistics
+Competition	                    Test	ODI	T20I	FC
+Matches	                        103	284	56	180
+Runs scored	                    7214	9727	1607	13226
+Batting average	                42.18	37.11	33.47	44.83
+100s/50s	                    15/37	23/49	2/13	32/64
+Top score	                    333	215	117	333
+Balls bowled	                7109	7322	319	12511
+Wickets	                        73	165	17	132
+Bowling average	                42.73	35.33	22.17	39.34
+5 wickets in innings	         2	1	0	2
+10 wickets in match	            0	0	0	0
+Best bowling	                5/34	5/46	2/15	5/34
+Catches/stumpings	            96/–	120/–	14/–	158/–</string>
+    <string name="RashidKhan1">"
+                            Personal information
+Full name	Rashid Khan Arman
+Born	20 September 1998 (age 20)
+Nangarhar, Afghanistan
+Batting	Right-handed
+Bowling	Right-arm leg break
+Role	Bowler
+
+                            International information
+National side
+Afghanistan (2015–present)
+Only Test (cap 9)	14 June 2018 v India
+ODI debut (cap 36)	18 October 2015 v Zimbabwe
+Last ODI	25 September 2018 v India
+ODI shirt no.	19
+T20I debut (cap 27)	1 October 2016 v Bangladesh
+Last T20I	22 August 2018 v Ireland
+T20I shirt no.	19
+
+                            Domestic team information
+Years	Team
+2016–present	Comilla Victorians (squad no. 19)
+2017–present	Sunrisers Hyderabad (squad no. 19)
+2017–present	Guyana Amazon Warriors (squad no. 19)
+2017–present	Band-e-Amir Dragons
+2017–present	Adelaide Strikers (squad no. 19)
+2018–present	Quetta Gladiators (squad no. 19)
+2018–present	Sussex (squad no. 1)
+2018–present	Kabul Zwanan
+2018–present	Durban Heat
+
+                            Career statistics
+Competition	                Test	ODI	FC	LA
+Matches	                    1	49	5	51
+Runs scored	                19	659	144	680
+Batting average	            9.50	21.96	28.80	21.93
+100s/50s	                0/0	0/3	0/1	0/3
+Top score	                12	60*	52	60*
+Balls bowled	            209	2,444	1,388	2,551
+Wickets	                    2	112	37	116
+Bowling average	            77.00	14.06	18.40	14.33
+5 wickets in innings	    0	4	4	4
+10 wickets in match	        0	n/a	1	n/a
+Best bowling	            2/154	7/18	8/74	7/18
+Catches/stumpings	        0/–	16/–	0/–	17/–</string>
+    <string name="KaneWilliamson1">"
+                             Personal information
+Full name	Kane Stuart Williamson
+Born	8 August 1990 (age 28)
+Tauranga, Bay of Plenty, New Zealand
+Height	5 ft 8 in (1.73 m)
+Batting	Right-handed batsman
+Bowling	Right-arm off-break
+Role	Batsman, Captain
+
+                        International information
+National side
+New Zealand (2010–present)
+Test debut (cap 248)	4 November 2010 v India
+Last Test	30 March 2018 v England
+ODI debut (cap 161)	10 August 2010 v India
+Last ODI	10 March 2018 v England
+T20I debut (cap 49)	15 October 2011 v Zimbabwe
+Last T20I	2 November 2018 v Pakistan
+
+                        Domestic team information
+Years	Team
+2007–present	Northern Districts
+2011–2012	Gloucestershire
+2013–2014	Yorkshire
+2015–present	Sunrisers Hyderabad
+2016–present	Yorkshire
+2017	Barbados Tridents
+
+                            Career statistics
+Competition	                Test	ODI	T20	FC
+Matches	                    65	127	53	132
+Runs scored	                5338	5156	1364	10123
+Batting average	            50.35	46.87	31.00	47.97
+100s/50s	                18/26	11/33	0/8	28/53
+Top score	                242*	145*	73*	284*
+Balls bowled	            2037	1329	118	6510
+Wickets	                    29	35	6	85
+Bowling average	            38.96	34.48	27.33	42.87
+5 wickets in innings	    0	0	0	1
+10 wickets in match	        0	n/a	n/a	0
+Best bowling	            4/44	4/22	2/16	5/75
+Catches/stumpings	        58/–	53/–	25/–	122/–</string>
+    <string name="JasonRoy1">"
+                                 Personal information
+Full name	Jason Jonathan Roy
+Born	21 July 1990 (age 28)
+Durban, Natal Province, South Africa
+Height	1.82 m (6 ft 0 in)
+Batting	Right handed
+Bowling	Right arm medium
+Role	Batsman
+
+                                International information
+National side
+England (2014-present)
+ODI debut (cap 238)	8 May 2015 v Ireland
+Last ODI	23 October 2018 v Sri Lanka
+ODI shirt no.	20
+T20I debut (cap 70)	7 September 2014 v India
+Last T20I	27 October 2018 v Sri Lanka
+T20I shirt no.	20
+
+                                Domestic team information
+Years	Team
+2008–present	Surrey (squad no. 20)
+2012–2013	Chittagong Kings
+2015	Sydney Thunder
+2016–present	Sydney Sixers (squad no. 20)
+2017	Lahore Qalandars (squad no. 20)
+2017	Gujarat Lions (squad no. 20)
+2018	Quetta Gladiators (squad no. 20)
+2018–present	Delhi Daredevils
+
+                                Career statistics
+Competition	                    ODI	T20I	FC	LA
+Matches	                        70	32	80	163
+Runs scored	                    2,536	743	4,572	5,533
+Batting average	                37.85	23.21	38.42	36.88
+100s/50s	                    6/12	0/4	9/21	13/28
+Top score	                    180	78	143	180
+Balls bowled	                –	–	712	6
+Wickets	                        –	–	14	0
+Bowling average	                –	–	35.35	–
+5 wickets in innings	        –	–	0	–
+10 wickets in match	            n/a	n/a	0	n/a
+Best bowling	                –	–	3/9	–
+Catches/stumpings	            27/–	5/–	72/–	64/–</string>
+    <string name="WilliamPorterfield1">"
+                                Personal information
+Full name	William Thomas Stuart Porterfield
+Born	6 September 1984 (age 34)
+Donemana, Northern Ireland
+Height	5 ft 10 in (1.78 m)
+Batting	Left-handed
+Bowling	Right-arm off break
+Role	Opening batsman; Ireland captain
+
+                                International information
+National side
+Ireland (2006–present)
+Only Test (cap 7)	11 May 2018 v Pakistan
+ODI debut (cap 14)	5 August 2006 v Scotland
+Last ODI	31 August 2018 v Afghanistan
+ODI shirt no.	6
+T20I debut (cap 8)	2 August 2008 v Scotland
+Last T20I	22 August 2018 v Afghanistan
+T20I shirt no.	6
+
+                            Domestic team information
+Years	Team
+2008–2010	Gloucestershire
+2007	MCC
+2010–2017	Warwickshire
+2017–present	North West Warriors
+
+                                Career statistics
+Competition	                    Test	ODI	FC	LA
+Matches	                        1	122	131	249
+Runs scored	                    33	3,722	6,719	7,777
+Batting average	                16.50	31.81	31.84	32.95
+100s/50s	                    0/0	11/15	11/33	14/41
+Top score	                    32	139	207	139
+Balls bowled	                –	–	108	–
+Wickets	                        –	–	2	–
+Bowling average	                –	–	69.00	–
+5 wickets in innings	        –	–	0	–
+10 wickets in match	            –	n/a	0	n/a
+Best bowling	                –	–	1/29	–
+Catches/stumpings	            2/–	57/–	145/–	121/–</string>
+    <string name="SteveSmith1">"
+                                Personal information
+Full name	Steven Peter Devereux Smith
+Born	2 June 1989 (age 29)
+Kogarah, Sydney, New South Wales, Australia
+Nickname	Smudge, Smithy
+Height	176 cm (5 ft 9 in)[1]
+Batting	Right-handed
+Bowling	Right-arm leg spin
+Role	Top-order batsman
+Relations	Dani Willis (m. 2018)
+
+                            International information
+National side
+Australia (2010–present)
+Test debut (cap 415)	13 July 2010 v Pakistan
+Last Test	22 March 2018 v South Africa
+ODI debut (cap 182)	19 February 2010 v West Indies
+Last ODI	28 January 2018 v England
+ODI shirt no.	49
+T20I debut (cap 43)	5 February 2010 v Pakistan
+Last T20I	27 March 2016 v India
+T20I shirt no.	49
+
+                                Domestic team information
+Years	Team
+2007–present	New South Wales (squad no. 19)
+2010	Royal Challengers Bangalore
+2011	Worcestershire
+2011	Kochi Tuskers Kerala
+2011–present	Sydney Sixers
+2012–2013	Pune Warriors India
+2013	Antigua Hawksbills
+2014–2015	Rajasthan Royals (squad no. 49)
+2016–2017	Rising Pune Supergiant (squad no. 49)
+2018	Barbados Tridents (squad no. 49)
+
+                                    Career statistics
+Competition	                        Test	ODI	FC	LA
+Matches	                            64	108	118	154
+Runs scored	                        6,199	3,431	10,424	5,226
+Batting average	                    61.37	41.84	57.27	45.44
+100s/50s	                        23/24	8/19	37/44	10/32
+Top score	                        239	164	239	164
+Balls bowled	                    1,339	1,046	5,057	1,988
+Wickets	                            17	27	67	46
+Bowling average	                    54.88	34.48	52.86	38.78
+5 wickets in innings	            0	0	1	0
+10 wickets in match	                0	0	0	0
+Best bowling	                    3/18	3/16	7/64	3/16
+Catches/stumpings	                96/–	62/–	174/–	91/–</string>
+    <string name="ShahidAfridi1">"
+                                 Personal information
+Full name	Sahibzada Mohammad Shahid Khan Afridi
+Born	1 March 1980 (age 38)
+Khyber, Khyber Pakhtunkhwa, Pakistan
+Nickname	Boom Boom[1], Lala[2]
+Height	1.82 m (6 ft 0 in)
+Batting	Right-handed
+Bowling	Right arm leg spin
+Role	All-rounder
+Relations	Irfan Afridi (nephew)
+
+                            International information
+National side
+Pakistan (1996–2017)
+Test debut (cap 153)	22 October 1998 v Australia
+Last Test	13 July 2010 v Australia
+ODI debut (cap 109)	2 October 1996 v Kenya
+Last ODI	20 March 2015 v Australia
+ODI shirt no.	10
+T20I debut (cap 8)	28 August 2006 v England
+Last T20I	31 May 2018 v West Indies
+T20I shirt no.	10
+
+                                Domestic team information
+Years	Team
+1995–2017	Karachi Region and Karachi Dolphins
+1997–2017	Habib Bank Limited
+2001	Leicestershire
+2003	Derbyshire
+2003–04	Griqualand West
+2004	Kent
+2007–2008	Sind
+2010	Southern Redbacks
+2008	Deccan Chargers
+2011–2012, 2017	Hampshire
+2011	Melbourne Renegades
+2011–2012[3]	Dhaka Gladiators
+2012	Ruhuna Royals
+2015 [4]	Sylhet Super Stars
+2016 – 2017[5]	Peshawar Zalmi (squad no. 10)
+2016	Rangpur Riders
+2017–present	Dhaka Dynamites
+
+                                Career statistics
+Competition	                    Test	ODI	T20I	FC
+Matches	                        27	398	99	113
+Runs scored	                    1,716	8,064	1,416	5,695
+Batting average	                36.51	23.57	17.92	31.46
+100s/50s	                    5/8	6/39	0/4	12/31
+Top score	                    156	124	54*	164
+Balls bowled	                3,194	17,670	2,168	13,657
+Wickets	                        48	395	98	266
+Bowling average	                35.60	34.51	24.44	26.68
+5 wickets in innings	            1	9	0	8
+10 wickets in match	                0	0	0	0
+Best bowling	                5/52	7/12	4/11	6/101
+Catches/stumpings	            10/–	127/–	30/–	78/–</string>
+</resources>
